@@ -29,4 +29,8 @@ i write code, occasionally make it look decent, and have a healthy obsession wit
 
 ---
 
+<img height="260em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrosanzches-hue" />
+
+---
+
 *most of my repos are private. if you're here, you probably know me already.*
